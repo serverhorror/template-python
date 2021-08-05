@@ -1,0 +1,10 @@
+{
+  "python.languageServer": "Pylance",
+  "python.formatting.provider": "black",
+  "python.linting.mypyEnabled": true,
+  "editor.fontSize": 24,
+  "code-runner.executorMap": {
+    "python": "$pythonPath -u $fullFileName",
+  },
+  "python.linting.enabled": true
+}
