@@ -11,6 +11,7 @@ By default it pulls the latest available Python 3 container
 
 1. Find and replace `serverhorror/template-python` with your GitHub username and repository name
 1. Find and replace `template-python` with your repository name
+1. Rename the folder `template_python` to reflect your package name
 1. Find and replace `Your Name <you@example.com>` with the actual name you want to use
 
 ## Features
